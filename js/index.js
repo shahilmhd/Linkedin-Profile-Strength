@@ -1,7 +1,7 @@
 function fillMeter(percent) {
       var pixels = (percent/100) * 90;
       $(".fill").css('top', (90-pixels) + "px");
-      $(".level").css('top', (77-pixels) + "px");
+      $(".level").css('top', (77-pixels) + "px"); 
       $(".fill").css('height', pixels + "px");
       
       
