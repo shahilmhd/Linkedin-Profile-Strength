@@ -1,2 +1,4 @@
 # Linkedin-Profile-Strength
-Emulation of Linkedin Profile Strength progress. 
+
+This is a simple Emulation of LinkedIn Profile Strength progress. 
+
